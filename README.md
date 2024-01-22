@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Notion Clone
 
-## Getting Started
+Run the app
 
-First, run the development server:
+open 2 different terminal and run below mentioned command
 
-```bash
+```
+npm i
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+npx convex dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech stack used :
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Next.js 13
+- Convex
+- Clerk
+- Edge Store
+- Shadcn/ui
+- Blacknote Editor
+- Tailwind Css
 
-## Learn More
+## Live link
 
-To learn more about Next.js, take a look at the following resources:
+[Notion-Clone](https://notion-eight-theta.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Screen-Shots
+![Screenshot from 2024-01-22 16-50-05](https://github.com/TusharSahu02/notion-clone/assets/82487339/6b4a6c2c-1d66-4dba-844d-eb57af15d871)
+![Screenshot from 2024-01-22 16-50-28](https://github.com/TusharSahu02/notion-clone/assets/82487339/f18c3134-a0c9-4a62-b698-5d13213e3ffe)
+![Screenshot from 2024-01-22 16-50-53](https://github.com/TusharSahu02/notion-clone/assets/82487339/2d3336bf-0fbf-4047-abb7-ad8d7801cf2b)
+![Screenshot from 2024-01-22 16-51-23](https://github.com/TusharSahu02/notion-clone/assets/82487339/43c968ff-7553-453f-8679-6878d24cf3db)
+![Screenshot from 2024-01-22 16-51-54](https://github.com/TusharSahu02/notion-clone/assets/82487339/899ace8a-2f9a-45c1-b00d-eca50b2adcb4)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot from 2024-01-22 16-52-04](https://github.com/TusharSahu02/notion-clone/assets/82487339/d6a72bc8-47b9-4817-8423-406275228df2)
